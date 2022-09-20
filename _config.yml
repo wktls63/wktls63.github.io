@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "ko-KR"
 title                    : "GyeongMin's Devlog"
 title_separator          : # "Backend Developer KyungMin Noh bolg"
-subtitle                 : #  "just Developer" # site tagline that appears below site title in masthead
+subtitle                 : "하루에 꾸준하게 One day at a time" # site tagline that appears below site title in masthead
 name                     : "Noh Gyeong Min"
 description              : "공부하는 방"
 url                      : "https://wktls63.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Gyeong Min Noh"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**Backend** Developer."
+  bio              : "개발 공부 이야기"
   location         : "대한민국. 대구"
   email            : "wktls63@naver.com"
   links:
